@@ -16,6 +16,8 @@ I am presently in my third year of studying Software Engineering at the Adventis
 
 - Other things outside of programming: I studied industrial design for 3 years and worked full time in 2021 and continued doing some projects while studying engineering. I invest in the financial market since 2020 doing technical analysis, once I finish studying machine learning in depth I am going to start applying it to do algorithmic trading.
   
-- About me: I reside in a small city in Entre Ríos, Argentina. In my leisure time, I enjoy spending quality moments with my family and friends. As hobbies, I engage in playing football, working out at the gym, and exploring subjects related to economics, history, and financial markets.
+- About me: I have 25 years old, reside in a small city in Entre Ríos, Argentina. In my leisure time, I enjoy spending quality moments with my family and friends. As hobbies, I engage in playing football, working out at the gym, coding, play chess, and exploring subjects related to economics, history, and financial markets.
 
-  
+-I take pleasure in acquiring new knowledge, enjoy engaging in friendly competition to enhance my skills, and highly value the guidance and teachings provided by individuals with greater expertise.
+
+Alvarez Lucas
