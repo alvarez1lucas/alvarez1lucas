@@ -3,10 +3,10 @@ I am presently in my third year of studying Software Engineering at the Adventis
 
 - Strong Habilities: Proficient in Python, I possess comprehensive skills in data cleaning and wrangling, statistical analysis, and data visualization. Additionally, I am proficient in SQL and adept at creating diverse diagrams for modeling and constructing databases from the ground up.
 
-- Herramientas que uso: 
-  * Basicos: Excel, Jupyter Notebook, Visual Studio, Python, SQL, AI.
-  * Visualizacion: Tableau, Power Point, Matplotlib, Illustrator, Canvas, Plotly, Excel. 
-  * Librerias de python: Pandas, Numpy, Plotly ,Scikit-learn, Matplotlib, SciPy, Seaborn.
+- Tools I use:
+   * Basics: Excel, Jupyter Notebook, Visual Studio, Python, SQL, AI.
+   * Visualization: Tableau, Power Point, Matplotlib, Illustrator, Canvas, Plotly, Excel.
+   * Python libraries: Pandas, Numpy, Plotly, Scikit-learn, Matplotlib, SciPy, Seaborn.
     
 - I am currently studying advanced statistics, machine learning and practice different python libraries
   
