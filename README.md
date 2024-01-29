@@ -18,6 +18,6 @@ I am presently in my third year of studying Software Engineering at the Adventis
   
 - About me: I have 25 years old, reside in a small city in Entre Ríos, Argentina. In my leisure time, I enjoy spending quality moments with my family and friends. As hobbies, I engage in playing football, working out at the gym, coding, play chess, and exploring subjects related to economics, history, and financial markets.
 
--I take pleasure in acquiring new knowledge, enjoy engaging in friendly competition to enhance my skills, and highly value the guidance and teachings provided by individuals with greater expertise.
+- I take pleasure in acquiring new knowledge, enjoy engaging in friendly competition to enhance my skills, and highly value the guidance and teachings provided by individuals with greater expertise.
 
 Alvarez Lucas
