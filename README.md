@@ -1,23 +1,46 @@
+🚀 About Me
 
-I am presently in my third year of studying Software Engineering at the Adventist University of Plata "UAP" in Argentina. Additionally, I have completed IBM courses with honors in both Data Analyst and Data Science. My work revolves around the intersection of fundamental statistics and programming, with a primary focus on Python
+I'm a third-year Software Engineering student at Adventist University of Plata "UAP" in Argentina, with honors from IBM in Data Analyst and Data Science. My work lies at the intersection of fundamental statistics and programming, primarily focusing on Python.
 
-- Strong Habilities: Proficient in Python, I possess comprehensive skills in data cleaning and wrangling, statistical analysis, and data visualization. Additionally, I am proficient in SQL and adept at creating diverse diagrams for modeling and constructing databases from the ground up.
+🔧 Key Strengths
 
-- Tools I use:
-   * Basics: Excel, Jupyter Notebook, Visual Studio, Python, SQL, AI.
-   * Visualization: Tableau, Power Point, Matplotlib, Illustrator, Canvas, Plotly, Excel.
-   * Python libraries: Pandas, Numpy, Plotly, Scikit-learn, Matplotlib, SciPy, Seaborn.
-    
-- I am currently studying advanced statistics, machine learning and practice different python libraries
-  
-- Programming languages that I know from more to less: Python, SQL, Java, Kotlin, C#, JS, HTML, CSS.
-  
-- Regarding my academic background, I completed high school in 2016 and pursued a degree in industrial design at FADU UNL until 2020. In 2022, I commenced my studies in software engineering at UAP.
+Proficient in Python for data cleaning, statistical analysis, and visualization.
+Skilled in SQL and adept at creating diverse diagrams for modeling and database construction.
 
-- Other things outside of programming: I studied industrial design for 3 years and worked full time in 2021 and continued doing some projects while studying engineering. I invest in the financial market since 2020 doing technical analysis, once I finish studying machine learning in depth I am going to start applying it to do algorithmic trading.
-  
-- About me: I have 25 years old, reside in a small city in Entre Ríos, Argentina. In my leisure time, I enjoy spending quality moments with my family and friends. As hobbies, I engage in playing football, working out at the gym, coding, play chess, and exploring subjects related to economics, history, and financial markets.
+🌟 Soft Skills
 
-- I take pleasure in acquiring new knowledge, enjoy engaging in friendly competition to enhance my skills, and highly value the guidance and teachings provided by individuals with greater expertise.
+Adaptable: Thrive in dynamic environments and adapt quickly to new technologies.
+Collaborative: Enjoy working in team settings and exchanging ideas for optimal solutions.
+Problem Solver: Approach challenges with a problem-solving mindset, finding effective solutions.
+Effective Communicator: Express ideas clearly and concisely, fostering smooth collaboration.
+Results-Driven: Strive for excellence, consistently delivering high-quality and impactful results.
 
-Alvarez Lucas
+💻 Tools I Use
+
+Basics: Excel, Jupyter Notebook, Visual Studio, Python, SQL, AI.
+Visualization: Tableau, PowerPoint, Matplotlib, Illustrator, Canvas, Plotly, Excel.
+Python Libraries: Pandas, Numpy, Plotly, Scikit-learn, Matplotlib, SciPy, Seaborn.
+
+📚 Currently Studying
+
+Advanced statistics, machine learning, and exploring various Python libraries.
+
+💡 Programming Languages (Proficiency Order)
+
+Python, SQL, Java, Kotlin, C#, JS, HTML, CSS.
+
+🎓 Academic Background
+
+Completed high school in 2016, pursued industrial design at FADU UNL until 2020, and started software engineering at UAP in 2022.
+
+🌐 Beyond Programming
+
+Studied industrial design for 3 years, worked full-time in 2021, and engaged in projects while studying engineering. Invested in the financial market since 2020, planning to apply machine learning for algorithmic trading.
+
+👨‍💼 Personal
+
+25 years old, based in Entre Ríos, Argentina. Enjoy quality time with family and friends, playing football, working out, coding, playing chess, and exploring economics, history, and financial markets.
+
+🌟 Passions
+
+I thrive on acquiring new knowledge, enjoy friendly competition for skill enhancement, and highly value guidance from experts.
