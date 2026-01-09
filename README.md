@@ -1,4 +1,5 @@
-Highly analytical Quantitative Developer & Data Scientist specializing in the intersection of Systems Engineering and Financial Risk Management (FRM). Currently in my 4th year of Systems Engineering, I combine a rigorous mathematical foundation with the ability to deploy scalable financial software.
+Highly analytical Quantitative Developer & Data Scientist specializing in the intersection of Systems Engineering and Financial Risk Management (FRM). Currently in my 4th year of Systems Engineering, I combine a rigorous mathematical foundation with the ability to deploy scalable financial software, student github: https://github.com/LucasAlvarezr
+
 
 My background includes 4+ years of hands-on experience in Argentine and US markets, managing proprietary capital through algorithmic bots and derivatives strategies. This dual perspective ensures a deep understanding of market microstructure, quantitative execution, and risk control.
 
