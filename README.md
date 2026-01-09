@@ -1,46 +1,31 @@
-🚀 About Me
+Highly analytical Quantitative Developer & Data Scientist specializing in the intersection of Systems Engineering and Financial Risk Management (FRM). Currently in my 4th year of Systems Engineering, I combine a rigorous mathematical foundation with the ability to deploy scalable financial software.
 
-I'm a third-year Software Engineering student at Adventist University of Plata "UAP" in Argentina, with honors from IBM in Data Analyst and Data Science. My work lies at the intersection of fundamental statistics and programming, primarily focusing on Python.
+My background includes 4+ years of hands-on experience in Argentine and US markets, managing proprietary capital through algorithmic bots and derivatives strategies. This dual perspective ensures a deep understanding of market microstructure, quantitative execution, and risk control.
 
-🔧 Key Strengths
+I am proficient in the full Data Science lifecycle, from building high-performance ETL pipelines (APIs, Scraping) to advanced Feature Engineering and Model Validation under stress scenarios.
 
-Proficient in Python for data cleaning, statistical analysis, and visualization.
-Skilled in SQL and adept at creating diverse diagrams for modeling and database construction.
+I apply Machine Learning and Deep Learning to the 4 pillars of Risk:
 
-🌟 Soft Skills
 
-Adaptable: Thrive in dynamic environments and adapt quickly to new technologies.
-Collaborative: Enjoy working in team settings and exchanging ideas for optimal solutions.
-Problem Solver: Approach challenges with a problem-solving mindset, finding effective solutions.
-Effective Communicator: Express ideas clearly and concisely, fostering smooth collaboration.
-Results-Driven: Strive for excellence, consistently delivering high-quality and impactful results.
+Market Risk: Advanced metrics (VaR/ES), GARCH family models, t-Copulas, and Extreme Value Theory (EVT).
 
-💻 Tools I Use
 
-Basics: Excel, Jupyter Notebook, Visual Studio, Python, SQL, AI.
-Visualization: Tableau, PowerPoint, Matplotlib, Illustrator, Canvas, Plotly, Excel.
-Python Libraries: Pandas, Numpy, Plotly, Scikit-learn, Matplotlib, SciPy, Seaborn.
+Credit Risk: ML-based PD prediction, granular portfolio segmentation, and monotonic constraints.
 
-📚 Currently Studying
 
-Advanced statistics, machine learning, and exploring various Python libraries.
+Liquidity Risk: Predictive cash flow modeling and dynamic stress testing.
 
-💡 Programming Languages (Proficiency Order)
 
-Python, SQL, Java, Kotlin, C#, JS, HTML, CSS.
+Operational Risk: Anomaly detection algorithms and model auditing.
 
-🎓 Academic Background
+Technical Stack:
 
-Completed high school in 2016, pursued industrial design at FADU UNL until 2020, and started software engineering at UAP in 2022.
+Programming: Advanced Python (NumPy, Pandas, Numba, Scikit-learn, PySpark), SQL, Git.
 
-🌐 Beyond Programming
 
-Studied industrial design for 3 years, worked full-time in 2021, and engaged in projects while studying engineering. Invested in the financial market since 2020, planning to apply machine learning for algorithmic trading.
+Quant & ML: Econometrics, Causal Inference, Time-Series (LSTM/Transformers), Bayesian Inference, Differential Evolution.
 
-👨‍💼 Personal
 
-25 years old, based in Entre Ríos, Argentina. Enjoy quality time with family and friends, playing football, working out, coding, playing chess, and exploring economics, history, and financial markets.
+Infrastructure & BI: MLOps (Docker, AWS), Streamlit, Power BI (DAX).
 
-🌟 Passions
-
-I thrive on acquiring new knowledge, enjoy friendly competition for skill enhancement, and highly value guidance from experts.
+I thrive in high-stakes environments where programming and modeling are the primary tools for risk mitigation. Committed to continuous learning and the evolution of quantitative finance.
